@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/btn_close_hover.png</file>
+        <file>res/btn_close_normal.png</file>
+        <file>res/btn_delete_hover.png</file>
+        <file>res/btn_delete_normal.png</file>
+        <file>res/btn_location_hover.png</file>
+        <file>res/btn_location_normal.png</file>
+        <file>res/btn_mv_hover.png</file>
+        <file>res/btn_mv_normal.png</file>
+    </qresource>
+</RCC>
